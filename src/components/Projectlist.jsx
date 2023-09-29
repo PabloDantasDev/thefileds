@@ -1,4 +1,4 @@
-import ProjectCard from "/components/Projectcard";
+import ProjectCard from "../components/Projectcard";
 import { Container, Row, Col } from "react-bootstrap";
 import adminpanel from '/src/assets/images/upload.png';
 import olximage from "/src/assets/images/summary.png";
