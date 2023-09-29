@@ -1,14 +1,14 @@
 import ProjectCard from "../components/Projectcard";
 import { Container, Row, Col } from "react-bootstrap";
-import adminpanel from '/src/assets/images/upload.png';
-import olximage from "/src/assets/images/summary.png";
-import netfliximage from "/src/assets/images/quiz.png";
-import gridlinesbuilders from "/src/assets/images/eco.png";
-import charlespizza from "/src/assets/images/games.png";
-import todolist from "/src/assets/images/crudjs.png";
-import cadastro from "/src/assets/images/cadastro.png";
-import helpdesk from "/src/assets/images/helpdesk.png";
-import consulta from "/src/assets/images/consulta.png";
+import adminpanel from '../src/assets/images/upload.png';
+import olximage from "../src/assets/images/summary.png";
+import netfliximage from "../src/assets/images/quiz.png";
+import gridlinesbuilders from "../src/assets/images/eco.png";
+import charlespizza from ../src/assets/images/games.png";
+import todolist from "../src/assets/images/crudjs.png";
+import cadastro from "../src/assets/images/cadastro.png";
+import helpdesk from "../src/assets/images/helpdesk.png";
+import consulta from "../src/assets/images/consulta.png";
 import "../pages/style.css";
 
 
