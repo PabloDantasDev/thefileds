@@ -5,7 +5,7 @@ import Navbar from "react-bootstrap/Navbar";
 import { Link, NavLink } from "react-router-dom";
 import "../pages/style.css";
 
-import Cv from '../assets/curriculo.pdf'
+
 
 function Header() {
   const [expand, updateExpanded] = useState(false);
